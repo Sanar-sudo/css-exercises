@@ -12,7 +12,7 @@
     font-size: 36px;
 }
 
-#third{
+.add-font{
     /* in addition to the styles for all odd numbered elements, add a font size of 24px */
 
     font-size: 24px;
@@ -22,6 +22,5 @@
     /* a light green background, a font size of 24px, and bold */
 
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
